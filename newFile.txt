@@ -1,1 +1,2 @@
 MyNewFile
+modified in new checkout myNewTest
